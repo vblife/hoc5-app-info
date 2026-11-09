@@ -54,4 +54,4 @@ curl -i https://hocdevotion.us/.well-known/apple-app-site-association
 curl -i https://hocdevotion.us/.well-known/assetlinks.json
 ```
 
-Expected: `HTTP/2 200`, `content-type: application/json`, and the JSON body with no `REPLACE_WITH_` text.
+Expected: `HTTP/2 200`, `content-type: application/json`.
