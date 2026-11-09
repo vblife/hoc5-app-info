@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.hoc5.dailydevotion",
+      "sha256_cert_fingerprints": [
+        "F2:B5:5D:E3:E5:65:28:74:0B:A7:25:45:67:02:9B:A2:00:6C:AF:FD:C7:F2:F7:BC:20:51:56:60:14:70:96:55"
+      ]
+    }
+  }
+]
